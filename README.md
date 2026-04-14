@@ -1,15 +1,33 @@
-# Advent of Code 2025
+# 🎄 Advent of Code 2025
 
-## usage:
-each challenge in its own directory.
-poetry as pacakge manager.
+Solutions for the Advent of Code 2025 challenges.
 
-from cli:
-enter day directory
-run `poetry run python <solution file name>`
-watch in amazement how code works
+---
 
-## NO AI USED
-well, not in coding.
-but i did use claude to beautify this `README.md`.
-aoc is a coding challenge, not a "create wonderful markdown files" challenge.
+## 🚀 Usage
+
+Each challenge lives in its own directory.
+
+This project uses **Poetry** as the package manager.
+
+### Run a solution
+
+From the CLI:
+
+```bash
+cd <day-directory>
+poetry run python <solution_file>.py
+```
+
+Then sit back and watch the magic happen ✨
+
+---
+
+## 🤖 About AI Usage
+
+No AI was used for solving the challenges.
+
+(Okay… except for beautifying this `README.md`.)
+
+Because let's be honest — Advent of Code is about solving problems,  
+not crafting perfect Markdown.
